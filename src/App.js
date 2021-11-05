@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar"
 function App() {
   return (
     <>
-    <Navbar name="Simranpreet Singh"/>
+    <Navbar/>
     <Mobile alter="Card image cap"/>
     </>
   );
