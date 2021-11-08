@@ -6,7 +6,7 @@ function Mobile(props) {
     <>
       <div className="container">
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -24,7 +24,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -42,7 +42,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -62,7 +62,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -80,7 +80,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -98,7 +98,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -118,7 +118,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -136,7 +136,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -154,7 +154,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -174,7 +174,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -192,7 +192,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -210,7 +210,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -230,7 +230,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -248,7 +248,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -266,7 +266,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -286,7 +286,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -304,7 +304,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -322,7 +322,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -342,7 +342,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -360,7 +360,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -378,7 +378,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -398,7 +398,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -416,7 +416,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -434,7 +434,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -454,7 +454,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -472,7 +472,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -490,7 +490,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -510,7 +510,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -528,7 +528,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -546,7 +546,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -566,7 +566,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -584,7 +584,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -602,7 +602,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -622,7 +622,7 @@ function Mobile(props) {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -640,7 +640,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
@@ -658,7 +658,7 @@ function Mobile(props) {
               </div>
             </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 d-flex">
             <div className="card">
               <img
                 className="card-img-top"
