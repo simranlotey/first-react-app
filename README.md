@@ -1,6 +1,6 @@
 # first-react-app
 
-### demo 
+### Demo 
 
 https://simranlotey.github.io/first-react-app/
 
