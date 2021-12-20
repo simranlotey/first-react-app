@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar"
 function App() {
   return (
     <>
-    <Navbar/>
-    <Mobile alter="Card image cap"/>
+      <Navbar />
+      <Mobile />
     </>
   );
 }

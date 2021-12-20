@@ -1,4 +1,37 @@
 .card {
-  width: 20rem;
-  margin-top: 120px;
+  margin-bottom: 70px;
+  transition: 0.5s;
+}
+
+.row {
+  margin-top: 170px;
+}
+
+.card-text {
+  font-size: 18px;
+}
+
+.container-fluid {
+  width: 80%;
+}
+
+.navbar {
+  background-color: rgb(15, 43, 65);
+  font-size: 18px;
+}
+
+.navbar-brand {
+  font-size: 23px;
+}
+
+.navbar-nav {
+  margin-left: 1rem;
+}
+
+.btn {
+  width: 140px;
+}
+
+.btnn {
+  width: 90px;
 }
