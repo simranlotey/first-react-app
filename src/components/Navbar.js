@@ -1,6 +1,6 @@
 import React from "react";
 
-function Hey(props) {
+function Navbar(props) {
   return (
     <>
       <nav className="navbar fixed-top py-3 navbar-expand-xl shadow-lg navbar-dark">
@@ -40,4 +40,4 @@ function Hey(props) {
   );
 }
 
-export default Hey;
+export default Navbar;
