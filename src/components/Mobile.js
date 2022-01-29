@@ -609,31 +609,6 @@ function Mobile() {
               </div>
             </div>
           </div>
-
-
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -680,29 +655,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Realme 9</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -726,29 +679,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -818,29 +749,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -887,29 +796,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -933,29 +820,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1026,29 +891,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1398,29 +1241,7 @@ function Mobile() {
           </div>
 
 
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1467,29 +1288,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Realme 9</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1513,29 +1312,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1605,29 +1382,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1674,29 +1429,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1720,29 +1453,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -1813,29 +1524,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2185,29 +1874,7 @@ function Mobile() {
           </div>
 
 
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2254,29 +1921,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Realme 9</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2300,29 +1945,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2392,29 +2015,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2461,29 +2062,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2507,29 +2086,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2600,29 +2157,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -2972,29 +2507,7 @@ function Mobile() {
           </div>
 
 
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3041,29 +2554,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Realme 9</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3087,29 +2578,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3179,29 +2648,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3248,29 +2695,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3294,29 +2719,7 @@ function Mobile() {
               </div>
             </div>
           </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Oppo 11</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
           <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
             <div className="card shadow-lg">
               <img
@@ -3392,29 +2795,6 @@ function Mobile() {
               <img
                 className="card-img-top"
                 src="https://th.bing.com/th?id=OPA.VRznHOOxIGGS7A474C474&w=248&h=248&o=5&pid=21.1"
-                alt=" "
-              />
-              <div className="card-body"><h3 className="text-danger">£9.99</h3>
-                <h3 className="card-title">Samsung</h3>
-                <p className="card-text">
-                  Lorem ipsum dolor sit  consectetur adipisicing elit. Modi alias
-                </p>
-                <div className="text-center">
-                  <a href="/" className="btn btn-success ">
-                    Add To Card
-                  </a><br />
-                  <a href="/" className="btn btn-success mt-2">
-                    Buy Now
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-            <div className="card shadow-lg">
-              <img
-                className="card-img-top"
-                src="https://th.bing.com/th?id=OPA.IW%2bNGdW%2f2DCP2w474C474&w=248&h=248&o=5&pid=21.1"
                 alt=" "
               />
               <div className="card-body"><h3 className="text-danger">£9.99</h3>

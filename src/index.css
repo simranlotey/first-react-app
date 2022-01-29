@@ -1,10 +1,19 @@
 .card {
   margin-bottom: 70px;
   transition: 0.5s;
+  border-radius: 15px;
 }
 
+body {
+  background-color: bisque;
+}
 .row {
   margin-top: 170px;
+}
+
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 .card-text {
@@ -30,6 +39,7 @@
 
 .btn {
   width: 140px;
+  border-radius: 10px;
 }
 
 .btnn {
